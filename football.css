@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+    color: white;
+}
+
+.skite {
+    background-color: lightblue;
+}
+
+#toy {
+    text-transform: uppercase;
+    width: 50%;
+}
+
+#baby {
+    font-size: large25px;
+    background-color: blue;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
