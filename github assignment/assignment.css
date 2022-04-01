@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.aunty {
+    background-color: rgb(209, 136, 209);
+    height: 200px;
+}
+
+.jump {
+    float: left;
+    clear: left;
+}
+
+.stand {
+    text-align: center;
+    margin: 10%;
+}
